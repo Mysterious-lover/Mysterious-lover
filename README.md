@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm  Vansh Bhushan Vats!
 
-<!--
-**Mysterious-lover/Mysterious-lover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Student | 🖥️ Backend Developer | 💡 Learning MEAN & DSA  
+🔭 I’m currently working on: Full Stack Projects  
+🌱 I’m currently learning: Angular, MongoDB, JavaScript  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+📁 Portfolio: [Your Website](https://your-portfolio.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+
+---
+
+### 📈 GitHub Stats
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushanvats&show_icons=true&theme=radical)
+
+---
+
+### ✨ Top Projects
+- 🗂️ [Tax Management System](https://github.com/yourrepo)
+- 🧠 [AI Personal Tutor](https://github.com/yourrepo)
